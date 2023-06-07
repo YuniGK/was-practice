@@ -1,6 +1,6 @@
-package calculator.tobe;
+package org.example.calculator.tobe;
 
-import calculator.domain.PositiveNumber;
+import org.example.calculator.domain.PositiveNumber;
 
 public class DivisionOperator implements ArithmeticOperator{
     @Override
